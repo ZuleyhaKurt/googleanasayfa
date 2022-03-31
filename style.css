@@ -1,0 +1,38 @@
+
+body{
+    text-align: center;
+    margin: 10%;
+}
+.form {
+    background-color: rgba(128, 128, 128, 0.274);
+
+    text-align: center;
+}
+
+.box {
+
+
+    display: flex;
+    }
+    
+.boxes{
+
+    width: 33%;
+    height: 6rem;
+    justify-content: center;
+    text-align: center;
+ padding-top: 15px;
+
+}
+  
+    
+    .box1, .box2, .box3{
+        
+    background-color: rgb(102, 199, 231);
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    
+    }
+    
+    
